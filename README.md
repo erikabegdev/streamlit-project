@@ -19,3 +19,4 @@ O dashboard permite ao usuário gerar visualizações interativas a partir do co
 - Streamlit  
 
 O projeto foi implantado em ambiente de nuvem utilizando o Render.
+https://streamlit-project-1-vc48.onrender.com/
